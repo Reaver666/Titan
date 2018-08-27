@@ -1,0 +1,23 @@
+Titan Tech Repair
+My goal is to build an app like rover and fiver but for tech repair, systems updating, phone fixing etc
+-
+Main
+  Menu
+    Local Techs
+    Post A Job
+    Join Us!
+    Services
+    Disclaimer
+    Review a Tech
+    Settings
+    if{
+    user has signed up as tech
+    then {
+    Profile
+    }
+    }
+Have Linkdin, Facebook and Google logins
+Profiles are build upon a background check, Resume check and 5 references to become approved user.
+Linkdin profile allows 3 connections to be used for references
+The wage of the job can be increased within the users reputation.
+The users are paid through a direct deposit(eventually) for now try to have the users paid by the job from the job poster.
